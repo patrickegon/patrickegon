@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @patrickegon.
-  Graduated in Natural Sciences: Biology emphasis, at the State University of Pará. 
+  Graduated in Natural Sciences: Biology, at the State University of Pará. 
   
-  Served as an intern with a Scientific Initiation Scholarship from the Evandro Chagas Institute (IEC) at the Center for Technological Innovations (CIT/IEC) (2013-2016).
+  Served as an intern with two Scientific Initiation Scholarship from the Evandro Chagas Institute (IEC) at the Center for Technological Innovations (CIT/IEC) (2013-2015).
   
-  Currently finishing my masters degree in Biodiversity, Genetics and Evolution on (FCUP/CIIMAR)(2018-now).
+  Masters degree in Biodiversity, Genetics and Evolution on (FCUP/CIIMAR)(2018-2023).
   
-  Experience with viral genome assembly, curation and annotation, metagenomic analysis (virus, protist and bacterial), molecular techniques and programing applied to biological data. 
+  Experience with viral genome assembly, curation and annotation, metabarcoding analysis (Virus, Protist, Bacteria and Archaea), molecular techniques and programing applied to biological data.
+
 
 - 👀 I’m interested in Linux, Data science, Bioinformatics, Molecular Biology, Statistics, Data Mining, Large Data Volume Management, Programming Languages (R, Python and Shell Script) applied to bioinformatics analysis with data generated from NGS (Next Generation Sequencing) platforms such as GS FLX 454 Sequencing, ION PGM Sequencing and Illumina Mi-seq.
 
