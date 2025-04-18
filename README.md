@@ -16,14 +16,14 @@
 
 - 📫 How to reach me patrick.egon@gmail.com
 
-  # 👋 Hello, I'm Patrick!
+ # 👋 Hello, I'm Patrick!
 
 ## 🚀 Data Scientist with ML, ETL 
 
 📍 **Portugal**  
-📧 **Email:** [contact@sajalsharma.com](mailto:contact@sajalsharma.com)  
-🔗 **LinkedIn:** [sajals](https://linkedin.com/in/sajals)  
-👨‍💻 **GitHub:** [sajal2692](https://github.com/sajal2692)
+📧 **Email:** [patrick.egon@gmail.com](mailto:patrick.egon@gmail.com)  
+🔗 **LinkedIn:** [sajals](https://linkedin.com/in/patrick-egon-santos)  
+👨‍💻 **GitHub:** [patrickegon](https://github.com/patrickegon)
 
 
 ### About Me 🌐
@@ -31,32 +31,35 @@ Blending over 10 years of experience in Data science, Data Analysis, ML, NLP, I 
 
 
 ## Work Experience
-**Freelance Data Analyst & Scientist @ Freelance | (_January 2022 - Present_)**
--Established a data analysis consultancy, offering solutions for sectors such as healthcare and retail.
--End-to-end projects: ETL (Python/SQL/Bash/R), statistical modeling (R), data visualization (R).
--Process automation with Python/APIs, reducing analysis time by 20%.
--Optimization of operational efficiency by 25% via predictive models and reports.
+**Freelance Data Analyst & Scientist @ Freelance | (_January 2022 – Present_)**
+- Data analysis projects focused on delivering actionable insights.
+- Emphasis on improving operational efficiency.
+- End-to-end project examples in healthcare and retail.
+- Leveraging ETL (Python/SQL/Bash/R), statistical modeling (R), and data visualization (R).
+- Showcases process automation skills with Python/APIs.
+- Proven ability to reduce analysis time and optimize operations.
 
 **Biodiversity and Data Researcher @ University of Porto (CIIMAR/FCUP) (_January 2019–2023_)**
-​- Conducted data collection, processing, and analysis, as a novel study evaluating the impact of climate change over the diversity of microorganisms due to the aumento da salinidade e acidez das correntes oceanicas do artico avaliando os outbreak e os riscos para os padrões da diversidade local. 
--​ Trained ML models to identify distribution de comunidades microbianas e seus patterns and variable correlations.
--​ Automated analyses (Bash/R/Python) with statistical modeling/ML, generating insights for climate impact.
--​ Optimized workflows (transformation/filtering/visualization), +20% efficiency.
--​ Produced strategic reports for biodiversity and policies in the Arctic.
+​- Climate Change Impact on Arctic Microorganism Diversity: Led data collection, processing, and analysis to evaluate the effects of increased salinity and acidity in Arctic currents on microorganism diversity, assessing outbreaks and local risks. 
+- Microbial Community Distribution via ML: Trained ML models to identify distribution patterns and correlations within microbial communities.
+- Automated Climate Impact Analyses: Automated statistical modeling and ML analyses (Bash/R/Python) to generate climate impact insights.
+- +20% Workflow Efficiency: Optimized data workflows (transformation/filtering/visualization), achieving a +20% efficiency increase.
+- Arctic Biodiversity & Policy Reports: Produced strategic reports informing biodiversity and policy decisions in the Arctic.
 
 **Junior Data Analyst (Scholarship) @ Evandro Chagas Institute  (_June 2015–2016 July _)**
 
--​ Conducted data collection, processing, and analysis, via ETL, as a novel study evaluating the impact of over viruses related to Yellow Fever outbreak risk patterns. 
--​ Analyzed data with statistical techniques and predictive models predicting live-fire training scenarios and detecting endemic outbreak patterns using and training ML models (Python/Shell).
--​ Identified opportunities for improvement in data analyses and generated strategic reports.
--​ Provided insights to decision-makers on big data (pre/post-processing and quality).
--​ Actively contributed to the development of ETL processes and predictive models in the Data Engineering department of IEC.
-- Applied supervised deep learning approaches to endemic data to discover novel possíveis areas de distribuição das novas cepas de febre amarela nas Americas.
+- Conducted data collection, processing, and analysis (via ETL) for a novel study evaluating the impact of viruses on Yellow Fever outbreak risk patterns.
+- Analyzed data with statistical techniques and predictive models (Python/Shell) to predict live-fire training scenarios and detect endemic outbreak patterns using trained ML models.
+- Identified data analysis improvement opportunities and generated strategic reports.
+- Provided big data insights (pre/post-processing and quality) to decision-makers.
+- Actively contributed to the development of ETL processes and predictive models in the IEC Data Engineering department.
+- Applied supervised deep learning to endemic data to discover potential novel distribution areas of new Yellow Fever strains in the Americas.
 
 ** Junior Data Analyst @ Evandro Chagas Institute (_June 2014–2015 July _)**
--​ Conducted data collection, processing, and analysis (via ETL) novel study evaluating the impact of over viruses related to Rabies and others bats related desieses using (Python/Bash), training ML models to identify outbreak risk patterns (using metabarcoding data).
--​ Analyzed data with statistical techniques and predictive models, detecting endemic outbreak patterns.
--​ Identified opportunities for improvement in data analyses and generated strategic reports.
+- Conducted novel data collection, processing, and analysis (via ETL in Python/Bash) to evaluate the impact of viruses on Rabies and other bat-related disease outbreak risk patterns using metabarcoding data and trained ML models. 
+- Analyzed data with statistical techniques and predictive models to detect endemic outbreak patterns.
+- Identified data analysis improvement opportunities and generated strategic reports. 
+
 
 ##
 
