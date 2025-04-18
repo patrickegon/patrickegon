@@ -69,4 +69,5 @@ Built upon a foundation established during internships at the Evandro Chagas Ins
   <img alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
   <img alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+  <img alt="Git" height="30" width="40" src="https://www.svgrepo.com/download/374074/shell.svg" />
 </p>
