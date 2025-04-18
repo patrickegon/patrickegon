@@ -19,7 +19,7 @@ Data libs and tools: Jupyter Notebook, Numpy, Pandas, Matplotlib, Seaborn, Plotl
 ---
 ## 💼 Experience
 
-**Freelance Data Analyst & Scientist** | _Jan 2024 – Present_
+**Freelance Data Analyst** | _Jan 2024 – Present_
 
 * Delivered **actionable data insights** and **improved operational efficiency** across diverse industries.
 * Managed **end-to-end data projects**: acquisition, processing, modeling, visualization.
