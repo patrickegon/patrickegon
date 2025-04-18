@@ -28,15 +28,14 @@ Data libs and tools: Jupyter Notebook, Numpy, Pandas, Matplotlib, Seaborn, Plotl
 
 **Biodiversity and Data Researcher @ University of Porto (CIIMAR/FCUP)** | _Jan 2019 – 2023_
 
-Built upon research-focused internships at Evandro Chagas Institute (CIT/IEC) (2013-2015).
-
 * **Arctic Climate Change Analysis:** Evaluated impact on microorganism diversity, identifying **outbreak risks**.
 * **Microbial Community Mapping (ML):** Mapped distribution and correlations using **ML models**.
 * **Automated Climate Data Pipelines (Bash/R/Python):** Generated **climate impact insights** via automated ML/statistical analysis.
 * **+20% Workflow Efficiency:** Optimized data workflows (transformation, filtering, visualization).
 * **Strategic Biodiversity Reports:** Informed **Arctic biodiversity and policy decisions**.
 
-**Junior Data Analyst (High-achieving Scholarship) @ Evandro Chagas Institute**
+**Junior Data Analyst (High-achieving Scholarships) @ Evandro Chagas Institute**
+Built upon research-focused internships at Evandro Chagas Institute (CIT/IEC) (2014-2016).
 
 _Jun 2015 – Jul 2016_
 * Led full lifecycle **data analysis (ETL)** for Yellow Fever virus impact study.
