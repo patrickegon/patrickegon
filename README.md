@@ -1,16 +1,12 @@
 # 👋 Patrick Egon | Data Scientist
 
-Experienced in data science with a strong background in Data Analysis, ETL, Python, R, SQL, ML and Bioinformatics.
-
-## 🚀 Expertise: Data Analysis, ETL and ML. 
-
-📍 **Porto, Portugal** | 📧 [patrick.egon@gmail.com](mailto:patrick.egon@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/patrick-egon-santos) | 👨‍💻 [GitHub](https://github.com/patrickegon)
-
----
-
 ### 💡 About Me
 
-Data Scientist with over 10 years of experience leveraging Machine Learning, ETL pipelines, Linux, statistical analysis, and programming (R, Python, Shell Script) alongside advanced analytical techniques to transform complex datasets into impactful solutions. 
+Data Scientist with over 10 years of experience with strong background in Data Analysis, ETL, Python, R, SQL, ML and Bioinformatics.
+
+## 🚀 Expertise: Machine Learning, ETL pipelines, Linux, statistical analysis, and programming (R, Python, Shell Script) alongside advanced analytical techniques to transform complex datasets into impactful solutions. 
+
+📍 **Porto, Portugal** | 📧 [patrick.egon@gmail.com](mailto:patrick.egon@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/patrick-egon-santos) | 👨‍💻 [GitHub](https://github.com/patrickegon) 
 
 ---
 
