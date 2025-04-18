@@ -1,16 +1,11 @@
 <p align="center">
   <img src="banner.jpg" >
 </p>
-
 # 👋 Patrick Egon | Data Scientist
-
-### 💡 About Me
-
-Data Scientist with over 10 years of experience transforming complex datasets into impactful solutions using advanced analytical techniques. Proven expertise in Data Analysis, ETL, and a robust technical skillset.
 
 ## 🚀 Expertise
 
-Machine Learning, ETL Pipelines, Linux and Statistical Analysis.
+Data Scientist with over 10 years of experience transforming complex datasets into impactful solutions using advanced analytical techniques. Expertise in Data Analysis, Machine Learning, ETL Pipelines, Linux and Statistical Analysis.
 
 📍 **Porto, Portugal** | 📧 [patrick.egon@gmail.com](mailto:patrick.egon@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/patrick-egon-santos) | 👨‍💻 [GitHub](https://github.com/patrickegon) 
 
