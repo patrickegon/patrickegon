@@ -52,14 +52,27 @@ Built upon a foundation established during internships at the Evandro Chagas Ins
 
 ---
 
-### 🔬 Bioinformatics Skills
+### 🎓 Education
 
-* Viral genome assembly, curation, and annotation
-* Metabarcoding analysis (Virus, Protist, Bacteria, Archaea)
-* Molecular techniques applied to biological data
-* Programming for biological data analysis (R, Python, Shell Script)
-* Analysis of Next Generation Sequencing (NGS) data (GS FLX 454, ION PGM, Illumina Mi-seq)
+* **MSc in Biodiversity, Genetics and Evolution**, University of Porto, Portugal
+* **BSc in Natural Sciences**, Pará State University, Brazil
 
+### 📜 Certifications
+
+* **FreeCodeCamp:** Data Analysis with Python (2025)
+* **LNCC:** Big Data (2016)
+* **LNCC:** Data Analysis (2016)
+* **LNCC:** Network Sciences (2016)
+* **LNCC:** Big Data Management (2016)
+* **Evandro Chagas Institute:** Introduction to Shell Scripting (2015)
+* **Evandro Chagas Institute:** Introduction to Linux (2015)
+* **Evandro Chagas Institute:** Fundamentals of Phylogenetic Analyses and Phylogeography (2015)
+
+---
+
+### 🤝 Let's Connect!
+
+I'm always open to discussing innovative ideas, potential collaborations, and exciting opportunities in Data Science and AI. Feel free to reach out!
 ---
 
 ### 🛠️ Tech Stack
