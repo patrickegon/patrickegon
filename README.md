@@ -1,5 +1,5 @@
 ## 🚀 Data Scientist with ML & ETL Expertise
-Experienced Bioinformatician with a strong Data Analyst skillset (10+ years), adept at transforming complex biological datasets into impactful solutions using advanced analytical techniques and robust ETL pipelines. Expertise spans Data Analysis, Machine Learning, Statistical Analysis, and Linux environments. Driven by a passion for innovative problem-solving and continuous learning.
+Experienced Bioinformatician with a strong Data Analyst skillset (10+ years), adept at transforming complex datasets into impactful solutions using advanced analytical techniques and robust ETL pipelines. Expertise spans Data Analysis, Machine Learning, Statistical Analysis, and Linux environments. Driven by a passion for innovative problem-solving and continuous learning.
 
 📍 **Porto, Portugal** | 📧 [patrick.egon@gmail.com](mailto:patrick.egon@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/patrick-egon-santos) | 👨‍💻 [GitHub](https://github.com/patrickegon) 
 
