@@ -10,6 +10,17 @@ Machine Learning, ETL Pipelines, Linux, Statistical Analysis, R, Python, Shell S
 
 📍 **Porto, Portugal** | 📧 [patrick.egon@gmail.com](mailto:patrick.egon@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/patrick-egon-santos) | 👨‍💻 [GitHub](https://github.com/patrickegon) 
 
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+  <img alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+  <img alt="Git" height="30" width="40" src="https://www.svgrepo.com/download/374074/shell.svg" />
+</p>
+
+
 ---
 
 ## 💼 Experience
@@ -72,13 +83,3 @@ Built upon research-focused internships at Evandro Chagas Institute (CIT/IEC) (2
 
 I'm always open to discussing innovative ideas, potential collaborations, and exciting opportunities in Data Science and AI. Feel free to reach out!
 ---
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-  <img alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-  <img alt="Git" height="30" width="40" src="https://www.svgrepo.com/download/374074/shell.svg" />
-</p>
