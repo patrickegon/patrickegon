@@ -1,6 +1,6 @@
 # 👋 Patrick Egon | Data Scientist
 
-Graduated in Natural Sciences (Biology) and holds an MSc in Biodiversity, Genetics and Evolution. Experienced in data science with a strong background in bioinformatics and molecular biology.
+Experienced in data science with a strong background in Data Analysis, ETL, Python, R, SQL, ML and Bioinformatics.
 
 ## 🚀 Expertise: Data Analysis, ETL and ML. 
 
@@ -10,45 +10,45 @@ Graduated in Natural Sciences (Biology) and holds an MSc in Biodiversity, Geneti
 
 ### 💡 About Me
 
-Data Scientist with over 10 years of experience leveraging Machine Learning, ETL pipelines, Linux, statistical analysis, and programming (R, Python, Shell Script) alongside advanced analytical techniques to transform complex datasets into impactful solutions, particularly in bioinformatics and large-scale data analysis. My bioinformatics expertise includes viral genome assembly, curation, annotation, and comprehensive metabarcoding analysis (Virus, Protist, Bacteria, Archaea). Currently expanding R skills for metabarcoding data analysis and visualization.
+Data Scientist with over 10 years of experience leveraging Machine Learning, ETL pipelines, Linux, statistical analysis, and programming (R, Python, Shell Script) alongside advanced analytical techniques to transform complex datasets into impactful solutions. 
 
 ---
 
 ## 💼 Experience
 
-**Freelance Data Analyst & Scientist** | _January 2022 – Present_
+**Freelance Data Analyst & Scientist** | _Jan 2022 – Present_
 
-* Delivered **actionable insights** through focused data analysis projects across diverse industries.
-* Strong emphasis on **improving operational efficiency** for clients.
-* Managed **end-to-end data projects** encompassing data acquisition, processing, modeling, and visualization.
-* Proficient in **ETL processes** using Python, SQL, Bash, and R.
-* Developed and implemented **statistical models (R)** and **data visualizations (R)** to communicate key findings.
-* Implemented **process automation** leveraging Python and APIs, resulting in measurable time savings.
+* Delivered **actionable data insights** across diverse industries.
+* **Improved operational efficiency** for clients.
+* Managed **end-to-end data projects**: acquisition, processing, modeling, visualization.
+* Proficient in **ETL (Python/SQL/Bash/R)**.
+* Developed **statistical models (R)** and **data visualizations (R)**.
+* Implemented **process automation (Python/APIs)**, saving analysis time.
 
-**Biodiversity and Data Researcher @ University of Porto (CIIMAR/FCUP)** | _January 2019 – 2023_
+**Biodiversity and Data Researcher @ University of Porto (CIIMAR/FCUP)** | _Jan 2019 – 2023_
 
-Built upon a foundation established during internships at the Evandro Chagas Institute (CIT/IEC) (2013-2015) focused on technological innovations.
+Built upon research-focused internships at Evandro Chagas Institute (CIT/IEC) (2013-2015).
 
-* **Arctic Climate Change Impact Analysis:** Led comprehensive data analysis to evaluate the effects of changing oceanic conditions on Arctic microorganism diversity, identifying critical outbreak risks.
-* **ML for Microbial Community Mapping:** Developed and trained Machine Learning models to map the distribution and identify correlation patterns within complex microbial communities.
-* **Automated Climate Data Pipelines:** Designed and implemented automated analytical pipelines (Bash/R/Python) incorporating statistical modeling and ML to generate key insights on climate change impacts.
-* **Workflow Optimization (+20% Efficiency):** Streamlined data workflows (transformation, filtering, visualization), achieving a significant 20% increase in analytical efficiency.
-* **Strategic Biodiversity Reporting:** Authored strategic reports providing critical data-driven intelligence for biodiversity conservation efforts and Arctic policy formulation.
+* **Arctic Climate Change Analysis:** Evaluated impact on microorganism diversity, identifying outbreak risks.
+* **Microbial Community Mapping (ML):** Mapped distribution and correlations using ML models.
+* **Automated Climate Data Pipelines (Bash/R/Python):** Generated climate impact insights via automated ML/statistical analysis.
+* **+20% Workflow Efficiency:** Optimized data workflows (transformation, filtering, visualization).
+* **Strategic Biodiversity Reports:** Informed Arctic biodiversity and policy decisions.
 
-**Junior Data Analyst (High-achieving Scholarship) @ Evandro Chagas Institute** | _June 2015 – July 2016_
+**Junior Data Analyst (High-achieving Scholarship) @ Evandro Chagas Institute** | _Jun 2015 – Jul 2016_
 
-* Conducted full lifecycle data analysis (via ETL) for a novel study investigating viral factors in Yellow Fever outbreaks.
-* Applied statistical techniques and built predictive models (Python/Shell) using trained ML algorithms to forecast live-fire training scenarios and detect endemic outbreak patterns.
-* Proactively identified opportunities for enhancing data analysis processes and delivered strategic reports with actionable recommendations.
-* Provided key stakeholders with critical insights on big data management, including pre/post-processing strategies and data quality assurance.
-* Contributed significantly to the development and implementation of ETL processes and predictive models within the Data Engineering department.
-* Pioneered the application of supervised deep learning methodologies to endemic datasets, uncovering potential novel distribution areas for emerging Yellow Fever strains across the Americas.
+* Led full lifecycle data analysis (ETL) for Yellow Fever virus impact study.
+* Predicted outbreak patterns and live-fire scenarios using statistical/ML models (Python/Shell).
+* Identified data analysis improvements and delivered strategic reports.
+* Provided big data insights (pre/post-processing, quality) to stakeholders.
+* Developed ETL processes and predictive models within Data Engineering.
+* Applied deep learning to pinpoint novel Yellow Fever strain distribution in the Americas.
 
-**Junior Data Analyst (High-achieving Scholarship) @ Evandro Chagas Institute** | _June 2014 – July 2015_
+**Junior Data Analyst (High-achieving Scholarship) @ Evandro Chagas Institute** | _Jun 2014 – Jul 2015_
 
-* Spearheaded novel data collection, processing, and analysis initiatives (via ETL in Python/Bash) to assess the impact of viruses on Rabies and other bat-borne diseases, utilizing advanced metabarcoding data and trained ML models.
-* Performed in-depth data analysis using statistical techniques and predictive modeling to accurately detect endemic outbreak patterns.
-* Identified and proposed key improvements to existing data analysis workflows, resulting in the generation of impactful strategic reports.
+* Spearheaded data analysis (ETL in Python/Bash) on viral impact on Rabies and bat diseases using metabarcoding and ML.
+* Detected endemic outbreak patterns via statistical and predictive modeling.
+* Proposed data analysis enhancements and generated strategic reports.
 
 ---
 
