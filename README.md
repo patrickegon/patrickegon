@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="banner.jpg" >
-</p>
-
-## 👋 Patrick Egon | Data Scientist
-
-Data Scientist with over 10 years of experience transforming complex datasets into impactful solutions using advanced analytical techniques. Expertise in Data Analysis, Machine Learning, ETL Pipelines, Linux and Statistical Analysis.
+## 🚀 Data Scientist with ML & ETL Expertise
+Experienced Bioinformatician with a strong Data Analyst skillset (10+ years), adept at transforming complex biological datasets into impactful solutions using advanced analytical techniques and robust ETL pipelines. Expertise spans Data Analysis, Machine Learning, Statistical Analysis, and Linux environments. Driven by a passion for innovative problem-solving and continuous learning.
 
 📍 **Porto, Portugal** | 📧 [patrick.egon@gmail.com](mailto:patrick.egon@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/patrick-egon-santos) | 👨‍💻 [GitHub](https://github.com/patrickegon) 
 
@@ -16,13 +11,15 @@ Data Scientist with over 10 years of experience transforming complex datasets in
   <img alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
   <img alt="Git" height="30" width="40" src="https://www.svgrepo.com/download/374074/shell.svg" />
+  
 </p>
 
+Data libs and tools: Jupyter Notebook, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Tableau, Statsmodels, Scikit-learn, TensorFlow, Markdown, ggplot2, PlotSvalbard, tidyr, tidyverse, knitr, KableExtra, readr, AER, oce, leaflet, sf and scales.
 
 ---
 ## 💼 Experience
 
-**Freelance Data Analyst & Scientist** | _Jan 2022 – Present_
+**Freelance Data Analyst & Scientist** | _Jan 2024 – Present_
 
 * Delivered **actionable data insights** and **improved operational efficiency** across diverse industries.
 * Managed **end-to-end data projects**: acquisition, processing, modeling, visualization.
