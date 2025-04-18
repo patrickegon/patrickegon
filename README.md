@@ -22,16 +22,13 @@ Machine Learning, ETL Pipelines, Linux and Statistical Analysis.
 
 
 ---
-
 ## 💼 Experience
 
 **Freelance Data Analyst & Scientist** | _Jan 2022 – Present_
 
-* Delivered **actionable data insights** across diverse industries.
-* **Improved operational efficiency** for clients.
+* Delivered **actionable data insights** across diverse industries, improving operational efficiency.
 * Managed **end-to-end data projects**: acquisition, processing, modeling, visualization.
-* Proficient in **ETL (Python/SQL/Bash/R)**.
-* Developed **statistical models (R)** and **data visualizations (R)**.
+* Proficient in **ETL (Python/SQL/Bash/R)**, statistical modeling (**R**), and data visualization (**R**).
 * Implemented **process automation (Python/APIs)**, saving analysis time.
 
 **Biodiversity and Data Researcher @ University of Porto (CIIMAR/FCUP)** | _Jan 2019 – 2023_
@@ -44,23 +41,21 @@ Built upon research-focused internships at Evandro Chagas Institute (CIT/IEC) (2
 * **+20% Workflow Efficiency:** Optimized data workflows (transformation, filtering, visualization).
 * **Strategic Biodiversity Reports:** Informed Arctic biodiversity and policy decisions.
 
-**Junior Data Analyst (High-achieving Scholarship) @ Evandro Chagas Institute** | _Jun 2015 – Jul 2016_
+**Junior Data Analyst (High-achieving Scholarship) @ Evandro Chagas Institute**
 
+_Jun 2015 – Jul 2016_
 * Led full lifecycle data analysis (ETL) for Yellow Fever virus impact study.
 * Predicted outbreak patterns and live-fire scenarios using statistical/ML models (Python/Shell).
-* Identified data analysis improvements and delivered strategic reports.
-* Provided big data insights (pre/post-processing, quality) to stakeholders.
+* Identified data analysis improvements and delivered strategic reports, providing big data insights to stakeholders.
 * Developed ETL processes and predictive models within Data Engineering.
 * Applied deep learning to pinpoint novel Yellow Fever strain distribution in the Americas.
 
-**Junior Data Analyst (High-achieving Scholarship) @ Evandro Chagas Institute** | _Jun 2014 – Jul 2015_
-
+_Jun 2014 – Jul 2015_
 * Spearheaded data analysis (ETL in Python/Bash) on viral impact on Rabies and bat diseases using metabarcoding and ML.
 * Detected endemic outbreak patterns via statistical and predictive modeling.
 * Proposed data analysis enhancements and generated strategic reports.
 
 ---
-
 ### 🎓 Education
 
 * **MSc in Biodiversity, Genetics and Evolution**, University of Porto, Portugal
