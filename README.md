@@ -1,22 +1,6 @@
-- 👋 Hi, I’m @patrickegon.
-  Graduated in Natural Sciences: Biology, at the State University of Pará. 
-  
-  Served as an intern with two Scientific Initiation Scholarship from the Evandro Chagas Institute (IEC) at the Center for Technological Innovations (CIT/IEC) (2013-2015).
-  
-  Masters degree in Biodiversity, Genetics and Evolution on (FCUP/CIIMAR)(2018-2023).
-  
-  Experience with viral genome assembly, curation and annotation, metabarcoding analysis (Virus, Protist, Bacteria and Archaea), molecular techniques and programing applied to biological data.
-
-
-- 👀 I’m interested in Linux, Data science, Bioinformatics, Molecular Biology, Statistics, Data Mining, Large Data Volume Management, Programming Languages (R, Python and Shell Script) applied to bioinformatics analysis with data generated from NGS (Next Generation Sequencing) platforms such as GS FLX 454 Sequencing, ION PGM Sequencing and Illumina Mi-seq.
-
-- 🌱 I’m currently learning R applied on metabarcoding data. Filtering, splitting, analysing and plotting graphs, tables and maps.
-
-- 💞️ I’m looking to collaborate on Data science and Bioinformatics projects.
-
-- 📫 How to reach me patrick.egon@gmail.com
-
 # 👋 Patrick Egon | Data Scientist
+
+Graduated in Natural Sciences (Biology) and holds an MSc in Biodiversity, Genetics and Evolution. Experienced in data science with a strong background in bioinformatics and molecular biology.
 
 ## 🚀 Expertise: ML, ETL, Data Analysis
 
@@ -26,7 +10,7 @@
 
 ### 💡 About Me
 
-Data Scientist with over 10 years of experience leveraging Machine Learning, ETL pipelines, and advanced analytical techniques to transform complex datasets and natural language into impactful solutions. Passionate about driving data-informed decisions and building innovative experiences.
+Data Scientist with over 10 years of experience leveraging Machine Learning, ETL pipelines, and advanced analytical techniques to transform complex datasets and natural language into impactful solutions. Passionate about driving data-informed decisions and building innovative experiences, particularly within the realms of **bioinformatics, molecular biology, and large-scale biological data analysis.** My interests include Linux, data science methodologies, statistical analysis, and applying programming languages (R, Python, and Shell Script) to Next Generation Sequencing (NGS) data. My expertise includes viral genome assembly, curation, and annotation, as well as comprehensive metabarcoding analysis (Virus, Protist, Bacteria, and Archaea). Currently expanding my skills in applying R specifically to the analysis of metabarcoding data, including filtering, splitting, analysis, and visualization.
 
 ---
 
@@ -42,6 +26,8 @@ Data Scientist with over 10 years of experience leveraging Machine Learning, ETL
 * Implemented **process automation** leveraging Python and APIs, resulting in measurable time savings.
 
 **Biodiversity and Data Researcher @ University of Porto (CIIMAR/FCUP)** | _January 2019 – 2023_
+
+Built upon a foundation established during internships at the Evandro Chagas Institute (CIT/IEC) (2013-2015) focused on technological innovations.
 
 * **Arctic Climate Change Impact Analysis:** Led comprehensive data analysis to evaluate the effects of changing oceanic conditions on Arctic microorganism diversity, identifying critical outbreak risks.
 * **ML for Microbial Community Mapping:** Developed and trained Machine Learning models to map the distribution and identify correlation patterns within complex microbial communities.
@@ -66,38 +52,19 @@ Data Scientist with over 10 years of experience leveraging Machine Learning, ETL
 
 ---
 
+### 🔬 Bioinformatics Skills
+
+* Viral genome assembly, curation, and annotation
+* Metabarcoding analysis (Virus, Protist, Bacteria, Archaea)
+* Molecular techniques applied to biological data
+* Programming for biological data analysis (R, Python, Shell Script)
+* Analysis of Next Generation Sequencing (NGS) data (GS FLX 454, ION PGM, Illumina Mi-seq)
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-  <img alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
-  <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-</p>
-
----
-
-### 🎓 Education
-
-* **MSc in Biodiversity, Genetics and Evolution**, University of Porto, Portugal
-* **BSc in Natural Sciences**, Pará State University, Brazil
-
-### 📜 Certifications
-
-* **FreeCodeCamp:** Data Analysis with Python (2025)
-* **LNCC:** Big Data (2016)
-* **LNCC:** Data Analysis (2016)
-* **LNCC:** Network Sciences (2016)
-* **LNCC:** Big Data Management (2016)
-* **Evandro Chagas Institute:** Introduction to Shell Scripting (2015)
-* **Evandro Chagas Institute:** Introduction to Linux (2015)
-* **Evandro Chagas Institute:** Fundamentals of Phylogenetic Analyses and Phylogeography (2015)
-
----
-
-### 🤝 Let's Connect!
-
-I'm always open to discussing innovative ideas, potential collaborations, and exciting opportunities in Data Science and AI. Feel free to reach out!
+  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+  <img alt="SQL" height="30" width
