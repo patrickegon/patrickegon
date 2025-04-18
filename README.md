@@ -2,7 +2,7 @@
 
 Graduated in Natural Sciences (Biology) and holds an MSc in Biodiversity, Genetics and Evolution. Experienced in data science with a strong background in bioinformatics and molecular biology.
 
-## 🚀 Expertise: ML, ETL, Data Analysis
+## 🚀 Expertise: Data Analysis, ETL and ML. 
 
 📍 **Porto, Portugal** | 📧 [patrick.egon@gmail.com](mailto:patrick.egon@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/patrick-egon-santos) | 👨‍💻 [GitHub](https://github.com/patrickegon)
 
@@ -10,7 +10,7 @@ Graduated in Natural Sciences (Biology) and holds an MSc in Biodiversity, Geneti
 
 ### 💡 About Me
 
-Data Scientist with over 10 years of experience leveraging Machine Learning, ETL pipelines, and advanced analytical techniques to transform complex datasets and natural language into impactful solutions. Passionate about driving data-informed decisions and building innovative experiences, particularly within the realms of **bioinformatics, molecular biology, and large-scale biological data analysis.** My interests include Linux, data science methodologies, statistical analysis, and applying programming languages (R, Python, and Shell Script) to Next Generation Sequencing (NGS) data. My expertise includes viral genome assembly, curation, and annotation, as well as comprehensive metabarcoding analysis (Virus, Protist, Bacteria, and Archaea). Currently expanding my skills in applying R specifically to the analysis of metabarcoding data, including filtering, splitting, analysis, and visualization.
+Data Scientist with over 10 years of experience leveraging Machine Learning, ETL pipelines, Linux, statistical analysis, and programming (R, Python, Shell Script) alongside advanced analytical techniques to transform complex datasets into impactful solutions, particularly in bioinformatics and large-scale data analysis. My bioinformatics expertise includes viral genome assembly, curation, annotation, and comprehensive metabarcoding analysis (Virus, Protist, Bacteria, Archaea). Currently expanding R skills for metabarcoding data analysis and visualization.
 
 ---
 
@@ -35,7 +35,7 @@ Built upon a foundation established during internships at the Evandro Chagas Ins
 * **Workflow Optimization (+20% Efficiency):** Streamlined data workflows (transformation, filtering, visualization), achieving a significant 20% increase in analytical efficiency.
 * **Strategic Biodiversity Reporting:** Authored strategic reports providing critical data-driven intelligence for biodiversity conservation efforts and Arctic policy formulation.
 
-**Junior Data Analyst (Scholarship) @ Evandro Chagas Institute** | _June 2015 – July 2016_
+**Junior Data Analyst (High-achieving Scholarship) @ Evandro Chagas Institute** | _June 2015 – July 2016_
 
 * Conducted full lifecycle data analysis (via ETL) for a novel study investigating viral factors in Yellow Fever outbreaks.
 * Applied statistical techniques and built predictive models (Python/Shell) using trained ML algorithms to forecast live-fire training scenarios and detect endemic outbreak patterns.
@@ -44,7 +44,7 @@ Built upon a foundation established during internships at the Evandro Chagas Ins
 * Contributed significantly to the development and implementation of ETL processes and predictive models within the Data Engineering department.
 * Pioneered the application of supervised deep learning methodologies to endemic datasets, uncovering potential novel distribution areas for emerging Yellow Fever strains across the Americas.
 
-**Junior Data Analyst @ Evandro Chagas Institute** | _June 2014 – July 2015_
+**Junior Data Analyst (High-achieving Scholarship) @ Evandro Chagas Institute** | _June 2014 – July 2015_
 
 * Spearheaded novel data collection, processing, and analysis initiatives (via ETL in Python/Bash) to assess the impact of viruses on Rabies and other bat-borne diseases, utilizing advanced metabarcoding data and trained ML models.
 * Performed in-depth data analysis using statistical techniques and predictive modeling to accurately detect endemic outbreak patterns.
@@ -67,4 +67,6 @@ Built upon a foundation established during internships at the Evandro Chagas Ins
 <p align="left">
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-  <img alt="SQL" height="30" width
+  <img alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+</p>
