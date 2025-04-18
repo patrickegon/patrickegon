@@ -39,7 +39,7 @@ Blending over 10 years of experience in Data science, Data Analysis, ML, NLP, I 
 - Showcases process automation skills with Python/APIs.
 - Proven ability to reduce analysis time and optimize operations.
 
-**Biodiversity and Data Researcher @ University of Porto (CIIMAR/FCUP) (_January 2019–2023_)**
+**Biodiversity and Data Researcher @ University of Porto (CIIMAR/FCUP) | (_January 2019–2023_)**
 ​- Climate Change Impact on Arctic Microorganism Diversity: Led data collection, processing, and analysis to evaluate the effects of increased salinity and acidity in Arctic currents on microorganism diversity, assessing outbreaks and local risks. 
 - Microbial Community Distribution via ML: Trained ML models to identify distribution patterns and correlations within microbial communities.
 - Automated Climate Impact Analyses: Automated statistical modeling and ML analyses (Bash/R/Python) to generate climate impact insights.
@@ -47,7 +47,6 @@ Blending over 10 years of experience in Data science, Data Analysis, ML, NLP, I 
 - Arctic Biodiversity & Policy Reports: Produced strategic reports informing biodiversity and policy decisions in the Arctic.
 
 **Junior Data Analyst (Scholarship) @ Evandro Chagas Institute  (_June 2015–2016 July _)**
-
 - Conducted data collection, processing, and analysis (via ETL) for a novel study evaluating the impact of viruses on Yellow Fever outbreak risk patterns.
 - Analyzed data with statistical techniques and predictive models (Python/Shell) to predict live-fire training scenarios and detect endemic outbreak patterns using trained ML models.
 - Identified data analysis improvement opportunities and generated strategic reports.
@@ -95,7 +94,6 @@ Blending over 10 years of experience in Data science, Data Analysis, ML, NLP, I 
 - **Evandro Chagas Institute:**   Fundamentals of Phylogenetic Analyses and Phylogeography @ 2015
 
 🔗 Let's ideate, innovate, and build cool expericnes with Data Science and AI. Reach out for collaborations or simply to chat!
-
 <!---
 patrickegon/patrickegon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
