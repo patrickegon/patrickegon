@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" >
+</p>
+
 # 👋 Patrick Egon | Data Scientist
 
 ### 💡 About Me
