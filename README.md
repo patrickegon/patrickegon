@@ -1,4 +1,4 @@
-## 🚀 Data Scientist and Analyst:
+## 🚀 Data Scientist and Analyst: Driving Insights with AI, ML, and Data Storytelling
 Blending over 10 years of experience in Data Science (Bioinformatics) and Analysis using advanced analytical techniques, ETL pipelines, Artificial Intelligence (ML and NLP), Statistical Analysis, Data Visualization and Data Storyteller. 
 I transform big data and language into impactful solutions and experiences.
 
