@@ -1,5 +1,5 @@
 ## 🚀 Data Scientist and Analyst:
-Blending over 10 years of experience in Data Science (Bioinformatics) and Analysis using advanced analytical techniques, ETL pipelines, Artificial Intelligence (ML and NLP), Statistical Analysis and Data Visualization. 
+Blending over 10 years of experience in Data Science (Bioinformatics) and Analysis using advanced analytical techniques, ETL pipelines, Artificial Intelligence (ML and NLP), Statistical Analysis, Data Visualization and Data Storyteller. 
 I transform big data and language into impactful solutions and experiences.
 
 📍 **Porto, Portugal** | 🔗 [LinkedIn](https://linkedin.com/in/patrick-egon-santos) | 👨‍💻 [GitHub](https://github.com/patrickegon) 
