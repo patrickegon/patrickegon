@@ -1,5 +1,6 @@
 ## 🚀 Data Scientist with ML & ETL Expertise
-Blending over 10 years of experience in Data Science (Bioinformatics) and Analysis using advanced analytical techniques, ETL pipelines, Machine Learning, Statistical Analysis, and Linux environments. I transform big data and language into impactful solutions and experiences.
+Blending over 10 years of experience in Data Science (Bioinformatics) and Analysis using advanced analytical techniques, ETL pipelines, Machine Learning and Statistical Analysis. 
+I transform big data and language into impactful solutions and experiences.
 
 📍 **Porto, Portugal** | 📧 [patrick.egon@gmail.com](mailto:patrick.egon@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/patrick-egon-santos) | 👨‍💻 [GitHub](https://github.com/patrickegon) 
 
@@ -14,7 +15,10 @@ Blending over 10 years of experience in Data Science (Bioinformatics) and Analys
   <img alt="Linux" height="30" width="40" src="https://www.svgrepo.com/download/448236/linux.svg" />
 </p>
 
-Data libs and tools: Jupyter Notebook, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Tableau, Statsmodels, Scikit-learn, TensorFlow, Markdown, ggplot2, PlotSvalbard, tidyr, tidyverse, knitr, KableExtra, readr, AER, oce, leaflet, sf and scales.
+### Data libs and tools: 
+**Python:** Jupyter, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Tableau, Statsmodels, TensorFlow
+
+**R:** ggplot2, PlotSvalbard, tidyr, tidyverse, knitr, KableExtra, readr, AER, oce, leaflet, sf, scales, stats
 
 ---
 ## 💼 Work Experience
