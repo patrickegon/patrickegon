@@ -16,9 +16,9 @@ I transform big data and language into impactful solutions and experiences.
 </p>
 
 ### Data libs and tools: 
-**Python:** Jupyter, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Tableau, Statsmodels, TensorFlow
+**Python:** Jupyter, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Tableau, Statsmodels and TensorFlow.
 
-**R:** ggplot2, PlotSvalbard, tidyr, tidyverse, knitr, KableExtra, readr, AER, oce, leaflet, sf, scales, stats
+**R:** ggplot2, tidyr, tidyverse, knitr, KableExtra, readr, AER, oce, leaflet, sf, scales, stats and PlotSvalbard.
 
 ---
 ## 💼 Experience
