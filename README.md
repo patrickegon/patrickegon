@@ -2,7 +2,7 @@
 Blending over 10 years of experience in Data Science (Bioinformatics) and Analysis using advanced analytical techniques, ETL pipelines, Machine Learning and Statistical Analysis. 
 I transform big data and language into impactful solutions and experiences.
 
-📍 **Porto, Portugal** | 📧 [patrick.egon@gmail.com](mailto:patrick.egon@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/patrick-egon-santos) | 👨‍💻 [GitHub](https://github.com/patrickegon) 
+📍 **Porto, Portugal** | 🔗 [LinkedIn](https://linkedin.com/in/patrick-egon-santos) | 👨‍💻 [GitHub](https://github.com/patrickegon) 
 
 ### 🛠️ Tech Stack
 
