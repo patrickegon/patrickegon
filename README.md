@@ -57,16 +57,21 @@ I transform big data and language into impactful solutions and experiences.
 
 ### 📜 Certifications
 
-* **FreeCodeCamp:** Machine Learning with Python (Expected June - 2025)
-* **FreeCodeCamp:** Relational Database (Expected May - 2025)
-* **FreeCodeCamp:** Data Analysis with Python (2025)
-* **LNCC:** Big Data (2016)
-* **LNCC:** Data Analysis (2016)
-* **LNCC:** Network Sciences (2016)
-* **LNCC:** Big Data Management (2016)
-* **Evandro Chagas Institute:** Introduction to Shell Scripting (2015)
-* **Evandro Chagas Institute:** Introduction to Linux (2015)
-* **Evandro Chagas Institute:** Fundamentals of Phylogenetic Analyses and Phylogeography (2015)
+**FreeCodeCamp:**
+* Machine Learning with Python (Expected: June 2025)
+* Relational Database (Expected: May 2025)
+* Data Analysis with Python (Completed: 2025)
+
+**National Laboratory for Scientific Computing (LNCC):**
+* Big Data (Completed: 2016)
+* Data Analysis (Completed: 2016)
+* Network Sciences (Completed: 2016)
+* Big Data Management (Completed: 2016)
+
+**Evandro Chagas Institute (IEC):**
+* Introduction to Shell Scripting (Completed: 2015)
+* Introduction to Linux (Completed: 2015)
+* Fundamentals of Phylogenetic Analyses and Phylogeography (Completed: 2015)
 
 ---
 
