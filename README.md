@@ -59,19 +59,19 @@ I transform big data and language into impactful solutions and experiences.
 
 **FreeCodeCamp:**
 * Machine Learning with Python (Expected: June 2025)
-* Relational Database (Expected: May 2025)
-* Data Analysis with Python (Completed: 2025)
+* Relational Database (Expected: May 2025) (Focuses on SQL)
+* Data Analysis with Python (Completed: 2025) (Covers Pandas, Matplotlib, Seaborn)
 
-**National Laboratory for Scientific Computing (LNCC):**
+**National Laboratory for Scientific Computing (LNCC) | Brazilian Ministry of Science and Technology:**
 * Big Data (Completed: 2016)
 * Data Analysis (Completed: 2016)
 * Network Sciences (Completed: 2016)
 * Big Data Management (Completed: 2016)
 
-**Evandro Chagas Institute (IEC):**
-* Introduction to Shell Scripting (Completed: 2015)
+**Evandro Chagas Institute | Technological Innovation Center (IEC | CIT):**
+* Introduction to Shell Scripting (Completed: 2015) (Bash)
 * Introduction to Linux (Completed: 2015)
-* Fundamentals of Phylogenetic Analyses and Phylogeography (Completed: 2015)
+* Fundamentals of Phylogenetic Analyses and Phylogeography (Completed: 2015) (Bioinformatics)
 
 ---
 
