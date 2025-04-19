@@ -21,12 +21,13 @@ I transform big data and language into impactful solutions and experiences.
 **R:** ggplot2, PlotSvalbard, tidyr, tidyverse, knitr, KableExtra, readr, AER, oce, leaflet, sf, scales, stats
 
 ---
-## 💼 Work Experience
+## 💼 Experience
 
 **Freelance Data Analyst** | _Jan 2024 – Present_
-**Biodiversity and Data Scientist Researcher @ University of Porto (CIIMAR/FCUP)** | _Jan 2019 – 2023_
-**Junior Data Analyst (High-achieving Scholarships) @ Evandro Chagas Institute** _Jun 2015 – Jul 2016_
-**Junior Data Analyst (High-achieving Scholarships) @ Evandro Chagas Institute** _Jun 2014 – Jul 2015_
+
+**Biodiversity & Data Scientist Researcher** | Univ. of Porto (CIIMAR/FCUP) | _2019 – 2023_
+
+**Junior Data Scientist and Analyst** | Evandro Chagas Institute | _2014 – 2016_ *(High-achieving Scholarships)*
 
 ---
 ### 🎲 Data Projects
